@@ -18,4 +18,4 @@
 
 #### 帮助
 - [md文档编写帮助](github-pages-help.md)
-- 每个人都可以编辑
+- 每个人都可以编辑 git clone git@github.com:ecust-cst2017/ecust-cst2017.github.io.git or https://github.com/ecust-cst2017/ecust-cst2017.github.io.git
