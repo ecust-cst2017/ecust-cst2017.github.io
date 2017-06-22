@@ -16,6 +16,13 @@
 - [阅读理解-unit2-徐彬彬](http://note.youdao.com/share/?id=9d3ee289fe83267729856f708d694d23&type=note#/)
 - [阅读理解-unit3-徐彬彬](http://note.youdao.com/share/?id=d8b9517786a6d94680575d33540096a2&type=note#/)
 
+#### 英语(基础英语二级5套试卷)
+- [卷1](english/二级模拟试卷/基础英语二级模拟试卷与解析1.doc)
+- [卷2](english/二级模拟试卷/基础英语二级模拟试卷与解析2.doc)
+- [卷3](english/二级模拟试卷/基础英语二级模拟试卷与解析3.doc)
+- [卷4](english/二级模拟试卷/基础英语二级模拟试卷与解析4.doc)
+- [卷5](english/二级模拟试卷/基础英语二级模拟试卷与解析5.doc)
+
 #### 帮助
 - [md文档编写帮助](github-pages-help.md)
 
