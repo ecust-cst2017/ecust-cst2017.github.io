@@ -7,7 +7,7 @@
 
 #### 英语(感谢朱志庭和徐彬彬同学)
 - [考试要点](english/考试要点.jpg)
-- [translation.docx](english/translation.docx)
+- [translation中译英.docx](english/translation.docx)
 - [test-yourself-1.doc](english/大学英语-精读第二册Test-Yourself-1.doc)
 - [test-yourself-2.doc](english/大学英语精读第二册test-yourself2.doc)
 - [60道选择题](english/大学英语精读第二册-testyouself-60道选择题.docx)
