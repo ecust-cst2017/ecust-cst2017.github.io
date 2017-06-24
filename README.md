@@ -19,7 +19,7 @@
 - [英译中](english/v2/英语期末A-翻译(英-中)-徐彬彬提供.docx)
 - [百度网盘原始下载链接](http://pan.baidu.com/share/link?shareid=3386488233&uk=523763246)
 - [上次版本](english/v1/v1.md)
-- [截图](english/cover.md)
+- [截图](english/cover/cover.md)
 #### 基础英语二级5套模拟试卷
 - [卷1](english/二级模拟试卷/基础英语二级模拟试卷与解析1.doc)
 - [卷2](english/二级模拟试卷/基础英语二级模拟试卷与解析2.doc)
