@@ -1,6 +1,8 @@
 ##### 微信中打开假如不能下载请点击右上角在浏览器中打开
 
-![Image](time.png)
+#### 补考信息
+![补考名单](bukao/WechatIMG2.png)
+![补考名单](bukao/WechatIMG1.png)
 
 #### 高等常数(感谢邱怡同学花费一天的时间整理)
 - [A4正面](math/高数1.png)
