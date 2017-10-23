@@ -17,12 +17,14 @@
 - 本学期远程学习时间，因故改为11月1日开始，12月31日结束。
 - [2017年下半年学习日历](2017-second-half/2017年下半年学习日历.doc)
 
+#### 培训信息
+[CET4考前辅导班招生通知](https://mp.weixin.qq.com/s?__biz=MjM5NTg2MzA3Mg==&mid=2651210766&idx=1&sn=f7dbebc8dcdca497013844884ed6ae2f&chksm=bd00eb418a776257b71688313e4adaa4bc25e0cd987a4678272071cb0730963f7bd0d865e577&mpshare=1&scene=1&srcid=0926eBrPo7zZ44UQcriZvbwY&key=47c7b75addac7ce755c16777144b8dc1e969d064e122d210609bea9b4702a63e7bc3deb47516f664eb493c30e16d9ffb8543c2ec202c3e151e67b2fcb02d2fbd83c0b37f292778d5181268be366983f2&ascene=0&uin=MTY4NjQ3NDE4MA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=Ag436f6EpiRFvMPAm5Z1WyS9f9NZBm2M9ljaYRkEoAo0UeSvuWGG3qQ0Gkj8HtLv)
+
 #### 相关附件
 - [免考申请表](attachment/免考申请表.doc)
 - [学籍变动申请表](attachment/学籍变动申请表.doc)
 - [非学历证书替代课程-免考一览表](attachment/非学历证书替代课程（免考）一览表.xls)
 
-[CET4考前辅导班招生通知](https://mp.weixin.qq.com/s?__biz=MjM5NTg2MzA3Mg==&mid=2651210766&idx=1&sn=f7dbebc8dcdca497013844884ed6ae2f&chksm=bd00eb418a776257b71688313e4adaa4bc25e0cd987a4678272071cb0730963f7bd0d865e577&mpshare=1&scene=1&srcid=0926eBrPo7zZ44UQcriZvbwY&key=47c7b75addac7ce755c16777144b8dc1e969d064e122d210609bea9b4702a63e7bc3deb47516f664eb493c30e16d9ffb8543c2ec202c3e151e67b2fcb02d2fbd83c0b37f292778d5181268be366983f2&ascene=0&uin=MTY4NjQ3NDE4MA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=Ag436f6EpiRFvMPAm5Z1WyS9f9NZBm2M9ljaYRkEoAo0UeSvuWGG3qQ0Gkj8HtLv)
 
 #### 相关查询
 - [扣书费成功名单,请于开学当天领取，位置学校大门进门右转](2017-second-half/扣书费成功名单.jpeg)
