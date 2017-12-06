@@ -6,6 +6,7 @@
 
 #### 考试信息
 - [12月9日（周六）08：30-10：00 计科172（业升） 张静   考试地点：七大（左）](https://mp.weixin.qq.com/s/XSH3yqOQqchmBMtVctfDKQ)
+- [多媒体最后一节课课堂视频 范毅敏录制 密码请询问范毅敏](https://pan.baidu.com/s/1boOlph1)
 
 #### 课堂资料
 - [课堂资料-多媒体-高数-英语等-梅园浩不断更新中](https://pan.baidu.com/s/1b5cj6Y#list/path=%2F)
