@@ -6,7 +6,7 @@
 
 #### 考试信息
 - [12月9日（周六）08：30-10：00 计科172（业升） 张静   考试地点：七大（左）](https://mp.weixin.qq.com/s/XSH3yqOQqchmBMtVctfDKQ)
-- [多媒体最后一节课课堂视频](https://pan.baidu.com/s/1mhLRk7Y#list/path=%2F)
+- [多媒体最后一节课课堂视频-范毅敏整理](https://pan.baidu.com/s/1mhLRk7Y#list/path=%2F)
 - 多媒体考试说明：考试章节：1，2，3，4，5，7章 + 图像检索PPT, 考试重点章节是2,3,图像检索PPT, 需要关注PPT内的思考题和书本课后习题。图像检索PPT的内容请想办法抄到书里。
 - [多媒体技术课考前辅导-梅园浩整理](https://note.youdao.com/share/index.html?id=83839603b92d3483d721d9f04302d775&type=note)
 - [《多媒体技术》复习总结完整版1.0.doc-点击下载-网上收集仅供参考](2017-second-half/《多媒体技术》复习总结完整版1.0.doc)
