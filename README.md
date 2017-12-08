@@ -12,6 +12,7 @@
 - [多媒体补充章节3-邱怡-请下载打印](2017-second-half/duomeiti/qiuyi/多媒体补充3.PNG)
 - [多媒体补充章节4-邱怡-请下载打印](2017-second-half/duomeiti/qiuyi/多媒体补充4.PNG)
 - [多媒体补充章节一页文本-请下载打印](2017-second-half/duomeiti/buchongzhangjie.pdf)
+- [多媒体补充章节一页公式-丁帅帅](2017-second-half/duomeiti/多媒体PPT补充公式类.docx)
 - [《多媒体技术》复习总结完整版1.0.doc-点击下载-网上收集仅供参考](2017-second-half/duomeiti/《多媒体技术》复习总结完整版1.0.doc)
 - [多媒体最后一节课课堂视频-范毅敏整理](https://pan.baidu.com/s/1mhLRk7Y#list/path=%2F)
 - [多媒体技术课考前辅导-梅园浩整理](https://note.youdao.com/share/index.html?id=83839603b92d3483d721d9f04302d775&type=note)
