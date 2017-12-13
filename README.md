@@ -5,13 +5,14 @@
 [学生登记表打印](dayin.jpg)
 
 #### 近期事务
+- 英语四级本周六
 - C语言远程课学习及作业提交
 - 2017年下半年班导师测评工作将于12月11日至24日进行，请同学们登录学生平台，进入调查问卷对班导师工作进行测评
 - [2017年12月25日之前存学费到银行卡](http://jxjy.ecust.edu.cn/ShowNewsContent.aspx?NewId=3747&pk=153)
 
-#### 考试信息
-- 英语四级本周六
-- [多媒体考试资料](2017-second-half/duomeiti/exam.md)
+#### 考试资料
+- [工程数学](2017-second-half/math/exam.md)
+- [多媒体](2017-second-half/duomeiti/exam.md)
 
 #### 课堂资料
 - [课堂资料-多媒体-高数-英语等-梅园浩不断更新中](https://pan.baidu.com/s/1b5cj6Y#list/path=%2F)
