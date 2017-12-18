@@ -13,9 +13,12 @@
 #### 考试资料
 - [工程数学](2017-second-half/math/exam.md)
 - [多媒体](2017-second-half/duomeiti/exam.md)
+- [C语言](2017-second-half/c/exam.md)
+- [英语](2017-second-half/english/exam.md)
 
 #### 课堂资料
 - [课堂资料-多媒体-高数-英语等-梅园浩不断更新中](https://pan.baidu.com/s/1b5cj6Y#list/path=%2F)
+- [CET-4相关资料](cet4/readme.md)
 
 #### 课程安排
 - [2017下半年课程表](2017-second-half/课程表.png)
