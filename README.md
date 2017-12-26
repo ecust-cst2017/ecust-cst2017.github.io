@@ -5,6 +5,9 @@
 - [2017年12月25日之前存书费201到银行卡](http://jxjy.ecust.edu.cn/ShowNewsContent.aspx?NewId=3747&pk=153)
 - [学生登记表打印](2017-second-half/dayin.jpg)
 
+#### 考试时间
+<img src="2017-second-half/exam_schedule.png" width="600px" />
+
 #### 考试资料
 - [工程数学](2017-second-half/math/exam.md)
 - [C语言](2017-second-half/c/exam.md)
