@@ -1,18 +1,15 @@
 ##### 微信中打开假如不能下载请点击右上角在浏览器中打开
 
-## 2017下学期相关信息
-
 #### 近期事务
 - C语言远程课学习及作业提交截止至12月31日, 考试于元旦后第一周或第二周进行
-- [测评于12月11日至24日进行，请登录学生平台，进入调查问卷对班导师及任课都是进行测评](http://jxjy.ecust.edu.cn/Management/Student/StudentLogin.aspx)
 - [2017年12月25日之前存书费201到银行卡](http://jxjy.ecust.edu.cn/ShowNewsContent.aspx?NewId=3747&pk=153)
 - [学生登记表打印](2017-second-half/dayin.jpg)
 
 #### 考试资料
 - [工程数学](2017-second-half/math/exam.md)
-- [多媒体](2017-second-half/duomeiti/exam.md)
 - [C语言](2017-second-half/c/exam.md)
 - [英语](2017-second-half/english/exam.md)
+- [多媒体](2017-second-half/duomeiti/exam.md)
 
 #### 课堂资料
 - [课堂资料-多媒体-高数-英语等-梅园浩不断更新中](https://pan.baidu.com/s/1b5cj6Y#list/path=%2F)
