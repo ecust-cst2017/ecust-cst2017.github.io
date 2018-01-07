@@ -1,7 +1,7 @@
 ##### 微信中打开假如不能下载请点击右上角在浏览器中打开
 
 #### 近期事务
-- [2017年12月25日之前存书费201到银行卡](http://jxjy.ecust.edu.cn/ShowNewsContent.aspx?NewId=3747&pk=153)
+- [2018年1月8日之前存学费3201到中国银行卡](http://jxjy.ecust.edu.cn/ShowNewsContent.aspx?NewId=3747&pk=153)
 - [学生登记表打印](2017-second-half/dayin.jpg)
 
 #### 考试时间
