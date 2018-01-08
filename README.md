@@ -8,9 +8,9 @@
 <img src="2017-second-half/exam_schedule.png" width="600px" />
 
 #### 考试资料
+- [英语](2017-second-half/english/exam.md)
 - [工程数学](2017-second-half/math/exam.md)
 - [C语言](2017-second-half/c/exam.md)
-- [英语](2017-second-half/english/exam.md)
 - [多媒体](2017-second-half/duomeiti/exam.md)
 
 #### 课堂资料
