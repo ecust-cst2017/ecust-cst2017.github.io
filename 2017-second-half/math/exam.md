@@ -9,8 +9,9 @@
 - [模拟5.pdf](模拟试卷-PDF/5.pdf)
 - [模拟6.pdf](模拟试卷-PDF/6.pdf)
 
-- [数学复习A面-邱怡.PNG](数学复习A面-邱怡.PNG)
-- [数学复习B面-邱怡.PNG](数学复习B面-邱怡.PNG)
+- [数学复习A面-邱怡.PNG](http://openpublic.oss-cn-shanghai.aliyuncs.com/2017-jxjy/%E6%95%B0%E5%AD%A6A%E9%9D%A2.png)
+- [数学复习B面-邱怡.PNG](http://openpublic.oss-cn-shanghai.aliyuncs.com/2017-jxjy/%E6%95%B0%E5%AD%A6B%E9%9D%A2.png)
+- [数学AB面-邱怡.PDF](http://openpublic.oss-cn-shanghai.aliyuncs.com/2017-jxjy/%E6%95%B0%E5%AD%A6.pdf)
 
 - [工程数学-无答案精简版.pdf](工程数学-无答案精简版.pdf)
 - [工程数学-无答案精简版.doc](工程数学-无答案精简版.doc)
