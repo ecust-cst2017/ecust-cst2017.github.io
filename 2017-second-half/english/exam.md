@@ -13,3 +13,4 @@
 - [丁帅帅-选择填空和阅读理解-pdf](http://openpublic.oss-cn-shanghai.aliyuncs.com/2017-jxjy/%E9%80%89%E6%8B%A9%E5%A1%AB%E7%A9%BA%E5%92%8C%E9%98%85%E8%AF%BB_wrapper.pdf)
 
 - [英语A4.docx 英语基础差的同学请打印一份双面](英语A4.docx)
+- [英语A4.pdf 英语基础差的同学请打印一份双面](英语A4.pdf)
