@@ -7,7 +7,7 @@
 - [邱怡试卷A面](C语言试卷A面.PNG)
 - [邱怡试卷B面](C语言试卷B面.PNG)
 
-- [程序设计题汇总复习.7z 丁帅帅](程序设计题汇总复习.zip)
+- [程序设计题汇总复习.zip 丁帅帅](程序设计题汇总复习.zip)
 - [C语言最后2节课书本的考试范围+补充题 梅园浩](https://note.youdao.com/share/index.html?id=75fa9a74bc929ed3f48c29d63cb34a67&type=note#/)
 
 
