@@ -32,6 +32,25 @@ void main()
         for(j=1;j<10;j++)
             printf((j==9)?"%4d\n":"%4d", i*j);
 }
+
+###  徐彬彬提供 
+
+#include <stdio.h>
+
+int main()
+{ 
+	int i,j;
+	for (i=1;i<10;i++)
+	{
+		for(j=1;j<10;j++)
+		{
+			if(i>=j)
+			printf("%d x %d =%2d  ",j,i,i*j);
+		}
+		printf("\n");
+	}		
+   return 0;
+}
 ```
 
 #### 5.9 求Fibonacci数列的前20项，Fibonacci数列的特点是:第一、二次项的值都为1,从第三项开始，每一项都是前两项之和
@@ -143,6 +162,7 @@ void main()
 
 #丁帅帅做法
 #include <stdio.h>
+#include <string.h>
 main()
 {
 	char a[]="zhangsan",b[]="wangwu",c[20];
@@ -156,6 +176,22 @@ main()
 		c[i+j]=b[j];j++;
 	}
 	c[i+j]='\0';
+	puts(c);
+	
+	//排序由徐彬彬添加
+	len = strlen(c);
+	for (i=0;i<len-1;i++)
+	{
+		for(j=0;j<len-1;j++)
+		{
+			if(c[j]>c[j+1])
+			{
+				t = c[j];
+				c[j] =c[j+1];
+				c[j+1] =t;
+			}
+		}
+	}
 	puts(c);
 }
 ```
