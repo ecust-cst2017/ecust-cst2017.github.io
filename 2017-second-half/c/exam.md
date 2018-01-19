@@ -277,3 +277,71 @@ main()
     }
 }
 ```
+### 8.6编写函数int findsub(char*str1,char*str2),功能是返回字符串str2在字符串str1中首先出现在的字符位置。例如，设str1的内容为"wherever",str2的内容为er,则函数返回整数3.
+
+```
+#徐彬彬做法
+#include <stdio.h>
+
+int findsub(char* str1,char* str2)
+{
+	int i=0,j,pos;
+	
+	while(str1[i] != '\0')
+	{
+		//查找到第一个相同字母的位置
+		if(str1[i] == str2[0])
+		{
+			j=0;
+			//开始用小的遍历大的
+			while(str2[j] != '\0'&& str1[i+j] == str2[j])
+			{
+				j++;
+			}
+			//如果已经遍历到小的末尾了
+			if(str2[j]=='\0')
+			{
+				return i+1;
+			}
+		}
+		i++;
+	}
+	return -1;
+}
+
+int main()
+{
+   char *s1="wheresverkmn",*s2="sv";
+   printf("%d\n",findsub(s1,s2)); 
+   return 0;
+}
+
+
+#丁帅帅做法
+#include<stdio.h>
+ 
+int  findsub(char *str1,char *str2)
+{
+	int i=0,yn;
+	while(str1[i])
+	{
+		for(;str1[i]!=str2[0];i++);
+		if(str1[i]==str2[0])
+		{
+			for(j=0;str1[i+j]!='\0'&&str1[i+j]==str2[j];j++);
+			if(str2[j]=='\0')
+			{
+				return i+1;
+				i++;
+			}
+		return -1;
+		}
+	}
+}
+main()
+{
+	char *s1="wherever",*s2="er";
+	printf("%d",findsub(s1,s2))
+}
+```
+
