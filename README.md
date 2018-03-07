@@ -26,7 +26,7 @@
 #### 相关附件
 - [免考申请表](attachment/免考申请表.doc)
 - [学籍变动申请表](attachment/学籍变动申请表.doc)
-- [非学历证书替代课程-免考一览表](attachment/非学历证书替代课程（免考）一览表.xls)
+- [非学历证书替代课程-免考一览表](attachment/非学历证书免考一览表.xls)
 - [学号查询](attachment/xuehao.png)
 - [扣书费成功名单](2017-second-half/扣书费成功名单.jpeg)
 - [教材明细](2017-second-half/教材明细.jpeg)
