@@ -14,6 +14,9 @@
 
 <img src="2018-first-half/课程表.jpeg" width="500px" />
 
+#### 课堂资料
+- [课堂资料-百度网盘](https://pan.baidu.com/s/1b5cj6Y#list/path=%2F)
+
 #### 相关符件
 - [单双周日历表 打勾为单周](2018-first-half/attachment/单双周日历表.jpg)
 - [计科172课程安排](2018-first-half/班级课程表.png)
