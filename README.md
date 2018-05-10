@@ -3,7 +3,7 @@
 ## 考试资料汇总
 - [计算机图形学](2018-first-half/exam/computer-image.md)
 
-## 近期重要事项
+#### 近期重要事项
 - 本学期远程课学习从3月21日开始，请提醒同学们3月21日后抓紧时间学习
 - [英语四六级考试报名 3月23日9时-4月9日15时](https://mp.weixin.qq.com/s/iFQYmcKifV5sgE_CipUttQ)
 - [学位英语报名 3月9日～3月12日 每年仅一次报考机会 四级没过的同学务必报名](https://mp.weixin.qq.com/s/qmuDG13EIkLdq1PbdA-8ZQ)
