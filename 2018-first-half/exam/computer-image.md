@@ -1,5 +1,7 @@
 ## 计算机图形学
 
+> 文件使用的阿里云存储,微信可能会屏蔽,如果打不开请在浏览器中打开本页面
+
 #### 习题答案
 - [计算机图形习题答案-张仁元整理.pdf](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88-%E5%BC%A0%E4%BB%81%E5%85%83%E6%95%B4%E7%90%86.pdf)
 - [计算机图形习题答案-张仁元整理.docx](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88-%E5%BC%A0%E4%BB%81%E5%85%83%E6%95%B4%E7%90%86.docx)
