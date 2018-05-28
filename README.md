@@ -2,6 +2,7 @@
 
 ## 考试资料汇总
 - [计算机图形学](2018-first-half/exam/computer-image.md)
+- [数据结构](2018-first-half/exam/data-structure.md)
 
 #### 近期重要事项
 - 本学期远程课学习从3月21日开始，请提醒同学们3月21日后抓紧时间学习
