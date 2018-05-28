@@ -1,15 +1,15 @@
 ##### 微信中打开假如不能下载请点击右上角在浏览器中打开
 
 ## 考试资料汇总
-- [计算机图形学](2018-first-half/exam/computer-image.md)
 - [数据结构](2018-first-half/exam/data-structure.md)
+- [计算机图形学](2018-first-half/exam/computer-image.md)
 
 #### 近期重要事项
-- 本学期远程课学习从3月21日开始，请提醒同学们3月21日后抓紧时间学习
-- [英语四六级考试报名 3月23日9时-4月9日15时](https://mp.weixin.qq.com/s/iFQYmcKifV5sgE_CipUttQ)
-- [学位英语报名 3月9日～3月12日 每年仅一次报考机会 四级没过的同学务必报名](https://mp.weixin.qq.com/s/qmuDG13EIkLdq1PbdA-8ZQ)
-- [开学3周前提交重修申请、免考申请、学籍变动申请](2018-first-half/apply/apply.md)
-- [计科172补考时间](2018-first-half/补考时间.jpeg)
+- 实用WEB技术 远程课即将结束 请尽快完成学习
+- 数据结构 本周日(6月3日)12:45-14:15 六教102 朱法枝
+- 计算机图形学 本周日(6月3日)16:15-17:45 七大(左) 谢晓玲
+- 2018年上半年班导师网上测评将于5月26日至6月10日进行
+- [英语四六级准备证打印](http://cet.etest.net.cn)
 
 
 #### 课程表
@@ -29,6 +29,10 @@
 - [2018年学位英语考试报名通知.docx](2018-first-half/2018年学位英语考试报名通知.docx)
 - [2017年下半年校内班级补考安排.pdf](2018-first-half/2017年下半年校内班级补考安排.pdf)
 - [学号查询](attachment/xuehao.png)
+
+
+- [开学3周前提交重修申请、免考申请、学籍变动申请](2018-first-half/apply/apply.md)
+- [计科172补考时间](2018-first-half/补考时间.jpeg)
   
 #### 历史文档
 - [2017年下学期](2017-second-half.md)
