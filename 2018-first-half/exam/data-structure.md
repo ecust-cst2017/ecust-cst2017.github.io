@@ -16,7 +16,7 @@
 - [数据结构模拟题.pdf 张仁元整理](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%A8%A1%E6%8B%9F%E9%A2%98-%E5%BC%A0%E4%BB%81%E5%85%83.pdf)
 - [数据结构模拟题.docx 张仁元整理](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%A8%A1%E6%8B%9F%E9%A2%98-%E5%BC%A0%E4%BB%81%E5%85%83.docx)
 
-- [数据结构.pdf 徐彬彬](https://github.com/ecust-cst2017/ecust-cst2017.github.io/blob/master/2018-first-half/exam/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.pdf)
+- [数据结构.pdf 徐彬彬](数据结构.pdf)
 - [数据结构.docx 徐彬彬](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-xubinbin.docx)
 
 - [课堂PPT拍照题目.pdf](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/data_structure_topic.pdf)
