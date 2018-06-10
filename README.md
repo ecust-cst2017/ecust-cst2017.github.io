@@ -1,8 +1,8 @@
 ##### 微信中打开假如不能下载请点击右上角在浏览器中打开
 
 ## 考试资料汇总
-- [数据结构](2018-first-half/exam/data-structure.md)
-- [计算机图形学](2018-first-half/exam/computer-image.md)
+- [WEB实用技术](2018-first-half/exam/web-technology.md)
+
 
 #### 近期重要事项
 - 实用WEB技术 远程课即将结束 请尽快完成学习
