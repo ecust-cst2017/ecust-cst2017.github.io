@@ -1,7 +1,7 @@
 ##### 微信中打开假如不能下载请点击右上角在浏览器中打开
 
 ## 考试资料汇总
-
+- [走向成功-英语](2018-first-half/exam/english.md)
 - [WEB实用技术](2018-first-half/exam/web-technology.md)
 - [数据结构](2018-first-half/exam/data-structure.md)
 - [计算机图形学](2018-first-half/exam/computer-image.md)
