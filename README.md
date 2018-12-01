@@ -1,5 +1,24 @@
 ##### 微信中打开假如不能下载请点击右上角在浏览器中打开
 
+#### 考试相关
+
+- 计算机英语考试范围，所有章节的SectionA习题: 二，三，四部分
+- [计算机英语课后答案](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88.rar)
+
+- [数据库考试大纲](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E7%BB%A7%E7%BB%AD%E6%95%99%E8%82%B2%E6%95%B0%E6%8D%AE%E5%BA%93181%E5%A4%8D%E4%B9%A0%E5%A4%A7%E7%BA%B2.doc)
+
+#### 作业相关
+
+- 数据库实验做完的同学发到邮箱：邮箱：zuoyeshiyan@126.com
+- 数据库实验内容及模板请到小梅整理的[课堂资料](https://pan.baidu.com/s/1b5cj6Y#list/path=%2F) "03数据库概论目录" 下载
+
+
+- [操作系统实验内容](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Task/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E5%86%85%E5%AE%B9.doc)
+- [操作系统实验报告模板](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Task/%E3%80%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.doc)
+
+#### 课堂资料
+- [课堂资料-百度网盘](https://pan.baidu.com/s/1b5cj6Y#list/path=%2F)
+
 #### 课程表
 
 | 课程名称 |	学时 | 单双周	 | 周学时 | 起始周 | 终止周 | 任课教师 | 上课时间,地点 |
