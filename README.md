@@ -2,7 +2,7 @@
 
 #### 考试相关
 
-- 计算机英语考试范围，所有章节的SectionA习题: 二，三，四部分
+- 计算机英语考试范围，所有章节的SectionA习题: 二，三，四部分(有问题可以发邮件给英语老师：邮箱是linder@ecust.edu.cn)
 - [计算机英语课后答案](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88.rar)
 
 - [数据库考试大纲](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E7%BB%A7%E7%BB%AD%E6%95%99%E8%82%B2%E6%95%B0%E6%8D%AE%E5%BA%93181%E5%A4%8D%E4%B9%A0%E5%A4%A7%E7%BA%B2.doc)
