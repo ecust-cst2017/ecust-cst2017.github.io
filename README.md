@@ -2,12 +2,15 @@
 
 #### 考试相关
 
-#####数据库
+##### 数据库
 - 数据库考试是半开卷，可以携带1张A4纸, 复习范围看考试大纲
 - [数据库考试大纲](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E7%BB%A7%E7%BB%AD%E6%95%99%E8%82%B2%E6%95%B0%E6%8D%AE%E5%BA%93181%E5%A4%8D%E4%B9%A0%E5%A4%A7%E7%BA%B2.doc)
-- [数据库考试大纲-徐乐压缩整理](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E7%BB%A7%E7%BB%AD%E6%95%99%E8%82%B2%E6%95%B0%E6%8D%AE%E5%BA%93181%E5%A4%8D%E4%B9%A0%E5%A4%A7%E7%BA%B2-%E5%BE%90%E4%B9%90%E5%8E%8B%E7%BC%A9.pdf)
+- [考试资料A4-徐乐-pdf](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E7%BB%A7%E7%BB%AD%E6%95%99%E8%82%B2%E6%95%B0%E6%8D%AE%E5%BA%93181%E5%A4%8D%E4%B9%A0%E5%A4%A7%E7%BA%B2-%E5%BE%90%E4%B9%90%E5%8E%8B%E7%BC%A9.pdf)
+- [考试资料A4-徐乐-doc](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E6%95%B0%E6%8D%AE%E5%BA%93-%E5%BE%90%E4%B9%90.doc)
+- [考试资料A4-邱怡-正面-png](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E6%95%B0%E6%8D%AE%E5%BA%93-%E9%82%B1%E6%80%A1-%E6%AD%A3.png)
+- [考试资料A4-邱怡-反面-png](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E6%95%B0%E6%8D%AE%E5%BA%93-%E9%82%B1%E6%80%A1-%E5%8F%8D.png)
 
-#####计算机英语
+##### 计算机英语
 
 - 计算机英语考试范围: 所有章节的SectionA习题; 二，三，四部分; 半开卷考试可以带1张A4纸 (有问题可以发邮件给英语老师：邮箱是linder@ecust.edu.cn)
 - [计算机英语课后答案](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88.rar)
