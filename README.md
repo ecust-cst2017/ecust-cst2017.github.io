@@ -4,11 +4,18 @@
 
 ##### 数据库
 - 数据库考试是半开卷，可以携带1张A4纸, 复习范围看考试大纲
-- [数据库考试大纲](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E7%BB%A7%E7%BB%AD%E6%95%99%E8%82%B2%E6%95%B0%E6%8D%AE%E5%BA%93181%E5%A4%8D%E4%B9%A0%E5%A4%A7%E7%BA%B2.doc)
+- [数据库考试大纲-张老师发-doc](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E7%BB%A7%E7%BB%AD%E6%95%99%E8%82%B2%E6%95%B0%E6%8D%AE%E5%BA%93181%E5%A4%8D%E4%B9%A0%E5%A4%A7%E7%BA%B2.doc)
+
 - [考试资料A4-徐乐-pdf](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E7%BB%A7%E7%BB%AD%E6%95%99%E8%82%B2%E6%95%B0%E6%8D%AE%E5%BA%93181%E5%A4%8D%E4%B9%A0%E5%A4%A7%E7%BA%B2-%E5%BE%90%E4%B9%90%E5%8E%8B%E7%BC%A9.pdf)
 - [考试资料A4-徐乐-doc](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E6%95%B0%E6%8D%AE%E5%BA%93-%E5%BE%90%E4%B9%90.doc)
+
+- [考试资料A4-徐乐-梅园浩-25M](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E6%95%B0%E6%8D%AE%E5%BA%93-%E5%BE%90%E4%B9%90-%E6%A2%85%E5%9B%AD%E6%B5%A9.pdf)
+
 - [考试资料A4-邱怡-正面-png](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E6%95%B0%E6%8D%AE%E5%BA%93-%E9%82%B1%E6%80%A1-%E6%AD%A3.png)
-- [考试资料A4-邱怡-反面-png](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E6%95%B0%E6%8D%AE%E5%BA%93-%E9%82%B1%E6%80%A1-%E5%8F%8D.png)
+- [考试资料A4-邱怡-反面-已更新-png](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E6%95%B0%E6%8D%AE%E5%BA%93-%E9%82%B1%E6%80%A1-%E5%8F%8D-v2.png)
+
+- [考试资料A4-傅佳俊-pdf](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E6%95%B0%E6%8D%AE%E5%BA%93-%E5%82%85%E4%BD%B3%E4%BF%8A-A4.pdf)
+- [考试资料A4-傅佳俊-补充](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E6%95%B0%E6%8D%AE%E5%BA%93-%E5%82%85%E4%BD%B3%E4%BF%8A-A4-%E8%A1%A5%E5%85%85.pdf)
 
 ##### 计算机英语
 
