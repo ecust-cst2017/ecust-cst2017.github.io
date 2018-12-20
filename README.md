@@ -12,7 +12,7 @@
 - [答案整理A4三面pdf-徐乐](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%8B%B1%E8%AF%AD%E7%AD%94%E6%A1%883%E9%A1%B5.pdf)
 
 - [计算机英语课后题目pdf](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E9%A2%98.pdf)
-- [计算机英语课后是上pptx](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E9%A2%98.pptx)
+- [计算机英语课后题目pptx](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E9%A2%98.pptx)
 
 ##### 操作系统
 - [操作系统复习资料（老师发）](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/2018%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0.doc)
