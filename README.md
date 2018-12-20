@@ -1,6 +1,27 @@
 ##### 微信中打开假如不能下载请点击右上角在浏览器中打开
 
-#### 考试相关
+#### 考试及作业
+
+##### 计算机英语
+
+- 计算机英语考试范围: 所有章节的SectionA习题; 二，三，四部分; 半开卷考试可以带1张A4纸 (有问题可以发邮件给英语老师：邮箱是linder@ecust.edu.cn)
+- [计算机英语课后答案（老师发）rar](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88.rar)
+- [计算机英语课后答案（老师发）docx](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E9%A2%98%E7%AD%94%E6%A1%88-%E8%80%81%E5%B8%88%E5%8F%91.docx)
+- [计算机英语课后答案（百度文库下载）doc](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E9%A2%98%E7%AD%94%E6%A1%88-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD.doc)
+- [答案整理A4两面pdf-徐乐](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%8B%B1%E8%AF%AD%E7%AD%94%E6%A1%882%E9%A1%B5.pdf)
+- [答案整理A4三面pdf-徐乐](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%8B%B1%E8%AF%AD%E7%AD%94%E6%A1%883%E9%A1%B5.pdf)
+
+- [计算机英语课后题目pdf](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E9%A2%98.pdf)
+- [计算机英语课后是上pptx](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E9%A2%98.pptx)
+
+##### 操作系统
+- [操作系统复习资料（老师发）](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/2018%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0.doc)
+
+- [操作系统实验内容](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Task/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E5%86%85%E5%AE%B9.doc)
+- [操作系统实验报告模板](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Task/%E3%80%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.doc)
+
+- [梅园浩实验报告1 供参考](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%A2%85%E5%9B%AD%E6%B5%A9-%E3%80%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%881%EF%BC%89.doc)
+- [梅园浩实验报告2 供参考](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%A2%85%E5%9B%AD%E6%B5%A9-%E3%80%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%882%EF%BC%89.doc)
 
 ##### 数据库
 - 数据库考试是半开卷，可以携带1张A4纸, 复习范围看考试大纲
@@ -17,19 +38,11 @@
 - [考试资料A4-傅佳俊-pdf](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E6%95%B0%E6%8D%AE%E5%BA%93-%E5%82%85%E4%BD%B3%E4%BF%8A-A4.pdf)
 - [考试资料A4-傅佳俊-补充](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E6%95%B0%E6%8D%AE%E5%BA%93-%E5%82%85%E4%BD%B3%E4%BF%8A-A4-%E8%A1%A5%E5%85%85.pdf)
 
-##### 计算机英语
-
-- 计算机英语考试范围: 所有章节的SectionA习题; 二，三，四部分; 半开卷考试可以带1张A4纸 (有问题可以发邮件给英语老师：邮箱是linder@ecust.edu.cn)
-- [计算机英语课后答案](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88.rar)
-
-#### 作业相关
-
 - 数据库实验做完的同学发到邮箱：邮箱：zuoyeshiyan@126.com
 - 数据库实验内容及模板请到小梅整理的[课堂资料](https://pan.baidu.com/s/1b5cj6Y#list/path=%2F) "03数据库概论目录" 下载
 
-
-- [操作系统实验内容](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Task/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E5%86%85%E5%AE%B9.doc)
-- [操作系统实验报告模板](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Task/%E3%80%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.doc)
+- [武华炎 实验报告参考](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%AD%A6%E5%8D%8E%E7%82%8E-%E8%AE%A1%E7%A7%91171-26170589.zip)
+- [张仁元 实验报告参考](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BC%A0%E4%BB%81%E5%85%83-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A0%BC%E5%BC%8F.doc)
 
 #### 课堂资料
 - [课堂资料-百度网盘](https://pan.baidu.com/s/1b5cj6Y#list/path=%2F)
