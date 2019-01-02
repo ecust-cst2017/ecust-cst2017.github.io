@@ -2,6 +2,10 @@
 
 #### 考试及作业
 
+##### 微机接口
+
+- [《微机接口技术》复习要点.doc 老师发](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E5%BE%AE%E6%9C%BA%E6%8E%A5%E5%8F%A3/%E3%80%8A%E5%BE%AE%E6%9C%BA%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF%E3%80%8B%E5%A4%8D%E4%B9%A0%E8%A6%81%E7%82%B9.doc)
+
 ##### 计算机英语
 
 - 计算机英语考试范围: 所有章节的SectionA习题; 二，三，四部分; 半开卷考试可以带1张A4纸 (有问题可以发邮件给英语老师：邮箱是linder@ecust.edu.cn)
@@ -16,6 +20,7 @@
 
 ##### 操作系统
 - [操作系统复习资料（老师发）](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/2018%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0.doc)
+- [操作系统复习资料-梅园浩有道云笔记](https://note.youdao.com/share/index.html?id=aa07ef0371f6ff8a0ae6a91cc0e395c0&type=note#/)
 
 - [操作系统实验内容](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Task/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E5%86%85%E5%AE%B9.doc)
 - [操作系统实验报告模板](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Task/%E3%80%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.doc)
