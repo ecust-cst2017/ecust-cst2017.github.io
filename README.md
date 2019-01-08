@@ -6,16 +6,6 @@
 
 <img src="2018-second-half/exam_time.jpg" width="600px" />
 
-##### 操作系统 01月06日（周日） 16：15-17：45    七大（左） 半开卷
-- [操作系统复习资料（老师发）](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/2018%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0.doc)
-- [操作系统复习资料-梅园浩有道云笔记](https://note.youdao.com/share/index.html?id=aa07ef0371f6ff8a0ae6a91cc0e395c0&type=note#/)
-
-- [操作系统实验内容](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Task/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E5%86%85%E5%AE%B9.doc)
-- [操作系统实验报告模板](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Task/%E3%80%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.doc)
-
-- [梅园浩实验报告1 供参考](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%A2%85%E5%9B%AD%E6%B5%A9-%E3%80%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%881%EF%BC%89.doc)
-- [梅园浩实验报告2 供参考](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%A2%85%E5%9B%AD%E6%B5%A9-%E3%80%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%882%EF%BC%89.doc)
-
 ##### 微机接口 01月12日（周六） 10：15-11：45 七313  开卷
 
 - [《微机接口技术》复习要点.doc 老师发](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E5%BE%AE%E6%9C%BA%E6%8E%A5%E5%8F%A3/%E3%80%8A%E5%BE%AE%E6%9C%BA%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF%E3%80%8B%E5%A4%8D%E4%B9%A0%E8%A6%81%E7%82%B9.doc)
@@ -31,6 +21,23 @@
 
 - [计算机英语课后题目pdf](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E9%A2%98.pdf)
 - [计算机英语课后题目pptx](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E9%A2%98.pptx)
+
+##### 操作系统 01月06日（周日） 16：15-17：45    七大（左） 半开卷
+- [操作系统复习资料（老师发）](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/2018%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0.doc)
+- [操作系统复习资料（老师发）缩小版 可打印A4](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/2018%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0%E7%BC%A9%E5%B0%8F.doc)
+- [操作系统复习资料-梅园浩有道云笔记](https://note.youdao.com/share/index.html?id=aa07ef0371f6ff8a0ae6a91cc0e395c0&type=note#/)
+- [邱怡整理A4正面](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E9%82%B1%E6%80%A1%E6%95%B4%E7%90%86A4%E6%AD%A3%E9%9D%A2.jpg)
+- [邱怡整理A4反面](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E9%82%B1%E6%80%A1%E6%95%B4%E7%90%86A4%E5%8F%8D%E9%9D%A2.jpg)
+
+- [PPT第1章](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/chapter1.ppt)
+- [PPT第2章](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/chapter2.ppt)
+- [PPT第3章](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/chapter3.ppt)
+
+- [操作系统实验内容](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Task/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E5%86%85%E5%AE%B9.doc)
+- [操作系统实验报告模板](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Task/%E3%80%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.doc)
+
+- [梅园浩实验报告1 供参考](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%A2%85%E5%9B%AD%E6%B5%A9-%E3%80%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%881%EF%BC%89.doc)
+- [梅园浩实验报告2 供参考](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%A2%85%E5%9B%AD%E6%B5%A9-%E3%80%8A%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%882%EF%BC%89.doc)
 
 ##### 数据库 12月08日（周六） 12：45-14：15   七中（右） 已结束
 - 数据库考试是半开卷，可以携带1张A4纸, 复习范围看考试大纲
