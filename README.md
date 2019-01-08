@@ -6,7 +6,7 @@
 
 <img src="2018-second-half/exam_time.jpg" width="600px" />
 
-##### 微机接口 01月12日（周六） 10：15-11：45 七313  开卷
+##### 微机接口 01月12日（周六） 10：15-11：45 七313  开卷 教材是《微机原理及应用》不要拿错了
 
 - [《微机接口技术》复习要点.doc 老师发](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E5%BE%AE%E6%9C%BA%E6%8E%A5%E5%8F%A3/%E3%80%8A%E5%BE%AE%E6%9C%BA%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF%E3%80%8B%E5%A4%8D%E4%B9%A0%E8%A6%81%E7%82%B9.doc)
 - [微机接口技术PPT.zip](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E5%BE%AE%E6%9C%BA%E6%8E%A5%E5%8F%A3/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86PPT.zip)
