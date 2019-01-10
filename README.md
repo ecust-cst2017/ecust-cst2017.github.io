@@ -15,6 +15,10 @@
 ##### 计算机英语 01月12日（周六） 14：30-16：00  七中（左） 半开卷
 
 - 计算机英语考试范围: 所有章节的SectionA习题; 二，三，四部分; 半开卷考试可以带1张A4纸 (有问题可以发邮件给英语老师：邮箱是linder@ecust.edu.cn)
+
+- [邱怡整理A4正面](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD.png)
+- [邱怡整理A4反面](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD-%E5%8F%8D.png)
+
 - [计算机英语课后答案（老师发）rar](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/Exam/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88.rar)
 - [计算机英语课后答案（老师发）docx](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E9%A2%98%E7%AD%94%E6%A1%88-%E8%80%81%E5%B8%88%E5%8F%91.docx)
 - [计算机英语课后答案（百度文库下载）doc](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%8B%B1%E8%AF%AD%E8%AF%BE%E5%90%8E%E9%A2%98%E7%AD%94%E6%A1%88-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD.doc)
