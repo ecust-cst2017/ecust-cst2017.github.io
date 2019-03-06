@@ -2,10 +2,6 @@
 
 #### 考试及实验报告
 
-#### 工商班考试资料
-
-- [工商班考试资料](BZ.md)
-
 ##### 微机接口 开卷 教材是《微机原理及应用》不要拿错了
 
 - [《微机接口技术》复习要点.doc 老师发](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E5%BE%AE%E6%9C%BA%E6%8E%A5%E5%8F%A3/%E3%80%8A%E5%BE%AE%E6%9C%BA%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF%E3%80%8B%E5%A4%8D%E4%B9%A0%E8%A6%81%E7%82%B9.doc)
@@ -77,22 +73,3 @@
 | 数据库设计与应用	| 48| 单双| 4| 1	| 12| 张海腾| 周六/中午1,2,3,4 七202| 
 | 微机接口技术| 64 | 单双 | 4| 1| 16| 	梁建宁| 周六/上午1,2,3,4 七202| 
 | 计算机英语| 32 | 单双 | 4| 1| 8| 胡国玲| （远程）| 
-
-
-  
-#### 历史文档
-- [2017年下学期](2017-second-half.md)
-- [2017年上学期](2017-first-half.md)
-- [2018年上学期](2018-first-half.md)
-
-#### 帮助
-- [md文档编写帮助](github-pages-help.md)
-
-每个人都可以修改此文档
-```
-git clone git@github.com:ecust-cst2017/ecust-cst2017.github.io.git
-```
-or
-```angular2html
-git clone https://github.com/ecust-cst2017/ecust-cst2017.github.io.git
-```
