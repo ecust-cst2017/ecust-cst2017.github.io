@@ -2,6 +2,7 @@
 
 #### 考试资料
 - [计算机网络.zip](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E6%88%90%E6%95%99%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.zip)
+- [软件工程.zip](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B.zip)
 
 #### 毕业登记表
 - [填写示例1](2019-first-half/毕业登记表示例1.jpeg)
