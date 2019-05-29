@@ -12,9 +12,10 @@
 - [计算机网络-A卷-有道网页版](https://note.youdao.com/ynoteshare1/index.html?id=b3fb2e037a131f6fd58260d6bcfc3185&type=note)
 - [计算机网络-B卷-有道网页版](https://note.youdao.com/ynoteshare1/index.html?id=4e7955241e85677daead8770dfaa1ce7&type=note)
 
-#### 毕业登记表
-- [填写示例1](2019-first-half/毕业登记表示例1.jpeg)
-- [填写示例2](2019-first-half/毕业登记表示例2.jpeg)
+#### 毕业相关资料
+- [2019继续教育学院校本部毕业论文文件汇总.rar](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-second-half/2019%E7%BB%A7%E7%BB%AD%E6%95%99%E8%82%B2%E5%AD%A6%E9%99%A2%E6%A0%A1%E6%9C%AC%E9%83%A8%20%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%96%87%E4%BB%B6%E6%B1%87%E6%80%BB.rar)
+- [毕业登记表填写示例1](2019-first-half/毕业登记表示例1.jpeg)
+- [毕业登记表填写示例2](2019-first-half/毕业登记表示例2.jpeg)
 
 #### 程序设计实践作业
 - [程序设计实践作业要求](2019-first-half/program-practice.md)
