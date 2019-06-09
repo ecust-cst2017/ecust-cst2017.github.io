@@ -1,5 +1,7 @@
 ## 工商班考试资料
 
+- [战略管理考试内容11.doc](BZ/战略管理考试内容11.doc)
+
 - [人力资源管理.zip](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E5%B7%A5%E5%95%86%E7%8F%AD%E8%80%83%E8%AF%95%E8%B5%84%E6%96%99/%E4%BA%BA%20%E5%8A%9B%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86.zip)
 - [企业管理.docx](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E5%B7%A5%E5%95%86%E7%8F%AD%E8%80%83%E8%AF%95%E8%B5%84%E6%96%99/%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86.docx)
 - [供应链物流管理.zip](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E5%B7%A5%E5%95%86%E7%8F%AD%E8%80%83%E8%AF%95%E8%B5%84%E6%96%99/%E4%BE%9B%E5%BA%94%E9%93%BE%E7%89%A9%E6%B5%81%E7%AE%A1%E7%90%86.zip)

@@ -2,6 +2,10 @@
 
 #### 软件工程 闭卷 考试时间6月
 - [软件工程.zip](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B.zip)
+- [软件工程考试模拟试卷1.note](http://note.youdao.com/noteshare?id=2f9ca8276e935edc5d3d7f3a079509ef&sub=C50FCF800D864A41B07EBC743E28BDF8)
+- [软件工程考试模拟试卷2.note](http://note.youdao.com/noteshare?id=830f99905503a793da4e3613a16ac0f3&sub=705C3EDD5D8D4394B66BF64AC0E489AA)
+- [软件工程考试模拟试卷3.note](http://note.youdao.com/noteshare?id=9f9c422c09bb3c7c5f1fd9585f8f761e&sub=5BDFA34095264344B7862522F2C1023F)
+- [软件工程考试模拟试卷4.note](http://note.youdao.com/noteshare?id=a2b0949b6843518f25fa5c60d527d78a&sub=F4F4C8206BF54F2486FD86CD0F69F81C)
 
 #### 计算机组成原理 预计半开卷 考试时间6月
 - [计算机组成原理-PPT2019.rar](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-PPT2019.rar)
