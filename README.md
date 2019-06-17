@@ -8,6 +8,7 @@
 - [软件工程考试模拟试卷4.note](http://note.youdao.com/noteshare?id=a2b0949b6843518f25fa5c60d527d78a&sub=F4F4C8206BF54F2486FD86CD0F69F81C)
 
 #### 计算机组成原理 预计半开卷 考试时间6月
+- [计算机组成原理整理-朱志庭.doc](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E6%95%B4%E7%90%86-%E6%9C%B1%E5%BF%97%E5%BA%AD-20190617.docx)
 - [计算机组成原理-PPT2019.rar](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-PPT2019.rar)
 - [计算机组成原理-课本终稿.rar](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AF%BE%E6%9C%AC%E7%BB%88%E7%A8%BF.RAR)
 
