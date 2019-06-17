@@ -6,6 +6,7 @@
 - [软件工程考试模拟试卷2.note](http://note.youdao.com/noteshare?id=830f99905503a793da4e3613a16ac0f3&sub=705C3EDD5D8D4394B66BF64AC0E489AA)
 - [软件工程考试模拟试卷3.note](http://note.youdao.com/noteshare?id=9f9c422c09bb3c7c5f1fd9585f8f761e&sub=5BDFA34095264344B7862522F2C1023F)
 - [软件工程考试模拟试卷4.note](http://note.youdao.com/noteshare?id=a2b0949b6843518f25fa5c60d527d78a&sub=F4F4C8206BF54F2486FD86CD0F69F81C)
+- [软件工程模拟卷涉及UML图技巧整理](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E6%A8%A1%E6%8B%9F%E5%8D%B7%E6%B6%89%E5%8F%8A%E7%9A%84%E7%94%BBUML%E5%9B%BE%E6%8A%80%E5%B7%A7%E6%95%B4%E7%90%86-%E6%9C%B1%E5%BF%97%E5%BA%AD.docx)
 
 #### 计算机组成原理 预计半开卷 考试时间6月
 - [计算机组成原理整理-朱志庭.doc](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E6%95%B4%E7%90%86-%E6%9C%B1%E5%BF%97%E5%BA%AD-20190617.docx)
