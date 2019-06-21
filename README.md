@@ -2,6 +2,7 @@
 
 #### 软件工程 闭卷 考试时间6月
 - [软件工程-老师发.zip](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B.zip)
+- [软件工程-远程课网站下载模拟题.zip](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B-%E8%BF%9C%E7%A8%8B%E8%AF%BE%E4%B8%8B%E8%BD%BD.zip)
 
 - [软件工程模拟卷涉及UML图技巧整理-朱志庭.doc](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E6%A8%A1%E6%8B%9F%E5%8D%B7%E6%B6%89%E5%8F%8A%E7%9A%84%E7%94%BBUML%E5%9B%BE%E6%8A%80%E5%B7%A7%E6%95%B4%E7%90%86-%E6%9C%B1%E5%BF%97%E5%BA%AD.docx)
 
@@ -19,6 +20,7 @@
 #### 计算机组成原理 闭卷 考试时间6月
 - [计算机组成原理-PPT2019-老师发.rar](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-PPT2019.rar)
 - [计算机组成原理-课本终稿-老师发.rar](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AF%BE%E6%9C%AC%E7%BB%88%E7%A8%BF.RAR)
+- [计算机组成原理-远程课网站下载模拟题.zip](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%BF%9C%E7%A8%8B%E8%AF%BE%E4%B8%8B%E8%BD%BD.zip)
 
 - [计算机组成原理整理-丁帅帅.doc](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E4%B8%81%E5%B8%85%E5%B8%85.docx)
 - [计算机组成原理整理-朱志庭.doc](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E6%95%B4%E7%90%86-%E6%9C%B1%E5%BF%97%E5%BA%AD-20190617.docx)
