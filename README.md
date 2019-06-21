@@ -25,6 +25,8 @@
 - [计算机组成原理整理-丁帅帅.doc](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E4%B8%81%E5%B8%85%E5%B8%85.docx)
 - [计算机组成原理整理-朱志庭.doc](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E6%95%B4%E7%90%86-%E6%9C%B1%E5%BF%97%E5%BA%AD-20190617.docx)
 
+- [计算机组成原理-邱怡整理打印](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90-%E9%82%B1%E6%80%A1.zip)
+
 #### 计算机网络考试 开卷 5月26日(日) 10:15-11:45 七大（左）
 - [计算机网络.zip](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E6%88%90%E6%95%99%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.zip)
 - [计算机网络-A卷-有道网页版](https://note.youdao.com/ynoteshare1/index.html?id=b3fb2e037a131f6fd58260d6bcfc3185&type=note)
