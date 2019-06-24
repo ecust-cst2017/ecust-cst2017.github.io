@@ -1,5 +1,7 @@
 ## 工商班考试资料
 
+- [综合英语资料](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/BZ/%E7%BB%BC%E5%90%88%E8%8B%B1%E8%AF%AD%E8%B5%84%E6%96%99.zip)
+
 - [战略管理考试内容11.doc](BZ/战略管理考试内容11.doc)
 
 - [人力资源管理.zip](http://openpublic.oss-cn-shanghai.aliyuncs.com/2018-jxjy/%E5%B7%A5%E5%95%86%E7%8F%AD%E8%80%83%E8%AF%95%E8%B5%84%E6%96%99/%E4%BA%BA%20%E5%8A%9B%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86.zip)
