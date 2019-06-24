@@ -1,5 +1,8 @@
 ##### 微信中打开假如不能下载请点击右上角在浏览器中打开
 
+#### 工商班考试资料
+- [工商班考试资料](BZ.md)
+
 #### 软件工程 闭卷 考试时间6月
 - [软件工程-老师发.zip](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B.zip)
 - [软件工程-远程课网站下载模拟题.zip](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-first-half/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B-%E8%BF%9C%E7%A8%8B%E8%AF%BE%E4%B8%8B%E8%BD%BD.zip)
@@ -39,9 +42,6 @@
 
 #### 程序设计实践作业
 - [程序设计实践作业要求](2019-first-half/program-practice.md)
-
-#### 工商班考试资料
-- [工商班考试资料](BZ.md)
 
 #### 课堂资料
 - [课堂资料-百度网盘](https://pan.baidu.com/s/1b5cj6Y#list/path=%2F)
