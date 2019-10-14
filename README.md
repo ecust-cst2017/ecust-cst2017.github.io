@@ -62,6 +62,10 @@
 ③下载知网优先使用知网推荐入口，若知网推荐入口有问题请更换其他入口，下载英文文章优先使用英文数据库里面的综合入口
 ```
 
+#### 毕业相关文件
+<!--[3_继教毕业设计分配表-2019.xls](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-second-half/3_%E7%BB%A7%E6%95%99%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E5%88%86%E9%85%8D%E8%A1%A8-2019.xls)-->
+
+
 #### 论文参考
 <!--[梅园浩毕业论文](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-second-half/%E6%A2%85%E5%9B%AD%E6%B5%A9-%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87.docx)-->
 
