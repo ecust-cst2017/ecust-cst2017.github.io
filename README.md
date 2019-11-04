@@ -3,7 +3,7 @@
 #### 毕业论文要求及注意事项（梅园浩整理）
 - [要求及注意事项-有道云笔记](https://note.youdao.com/ynoteshare1/index.html?id=099ea4fc2367d8482afe19fda4912429&type=note)
 
-<img src="2019-second-half/code.jpeg" width="430px" />
+<img src="2019-second-half/code.jpeg" width="230px" />
 
 #### 毕业相关资料
 - [2019继续教育学院校本部毕业论文文件汇总.rar](http://openpublic.oss-cn-shanghai.aliyuncs.com/2019-second-half/2019%E7%BB%A7%E7%BB%AD%E6%95%99%E8%82%B2%E5%AD%A6%E9%99%A2%E6%A0%A1%E6%9C%AC%E9%83%A8%20%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%96%87%E4%BB%B6%E6%B1%87%E6%80%BB.rar)
